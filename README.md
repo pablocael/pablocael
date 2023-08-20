@@ -11,5 +11,5 @@
 
 # Configs
 
-- [Nvim Configs](https://github.com/pablocael/nvim): My nvim configuration files
+- [nvim configs](https://github.com/pablocael/nvim): My nvim configuration files
 
