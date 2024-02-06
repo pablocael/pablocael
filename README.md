@@ -11,4 +11,4 @@
 
 # Config
 
-- [dotfiles](https://github.com/pablocael/dotfiles): My config files.
+- [dotfiles](https://github.com/pablocael/dotfiles): my config files.
