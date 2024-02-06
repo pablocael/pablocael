@@ -11,5 +11,5 @@
 
 # Configs
 
-- [nvim configs](https://github.com/pablocael/dotfiles): My configuration files
+- [dotfiles](https://github.com/pablocael/dotfiles): My configuration files
 
