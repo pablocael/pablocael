@@ -9,7 +9,3 @@
 
 - [knowledge base](https://github.com/pablocael/knowledgebase): knowledge base repository for several subjects such as math and programming.
 
-# Configs
-
-- [dotfiles](https://github.com/pablocael/dotfiles): My configuration files
-
