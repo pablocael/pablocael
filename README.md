@@ -1,5 +1,6 @@
 # Personal Projects
 
+- [gpt-pdf-organizer](https://github.com/pablocael/gpt-pdf-organizer): an automatic pdf file organizer based on llm api prompts such as chat gpt.
 - [pynear](https://github.com/pablocael/pynear): an optimized C++ library with python bindings for KNN search.
 - [spline surface 2d](https://github.com/pablocael/spline-surface2d): an efficient implementation of spline surface by using coon's patch for interpolating grid coordinates.
 - [big-o-estimator](https://github.com/pablocael/bigO-estimator): a trivial implementation of a time complexity estimator for algorithms
